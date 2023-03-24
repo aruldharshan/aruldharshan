@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/arul-dharshan-saravanan-9686101b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/user9736K/">
+  <a href="[https://leetcode.com/user9736K/](https://leetcode.com/Arul_Dharshan/)">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
   <div>
